@@ -1,0 +1,18 @@
+body {
+   margin: 0;
+   padding: 50px;
+   color: #333;
+   font: 28px/1.5 sans-serif;
+}
+
+.time {
+   color: #f44336;
+}
+
+.timer {
+   color: #2196f3;
+}
+
+.time ~ .timer {
+   color: #ff9800;
+}
